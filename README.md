@@ -11,6 +11,6 @@
 
 ## Hecho por:
 
-###Ana García
+###Andrés Barrero mediante Alura Latam
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/andresarbarrero
